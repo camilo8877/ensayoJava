@@ -61,6 +61,7 @@ public class MiPrueba {
 
             System.out.println("mi primer commit");
             System.out.println("Mi se gundo commit");
+            System.out.println("TERCER COMMIT");
         }
     }
 }
